@@ -1,0 +1,145 @@
+.furniture_flex {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.furniture_p {
+  font-size: 1.6rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+
+.search_grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column: auto;
+  gap: 1.6rem;
+  padding: 2rem 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column: auto;
+  gap: 1.6rem;
+}
+
+.sofa_div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s;
+  overflow: hidden;
+}
+.sofa_div:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
+  transform: translateY(-10px);
+}
+.sofa_div:hover .sofa_img {
+  transform: scale(1.1);
+}
+
+.sofa_img {
+  width: 100%;
+  height: 65%;
+  transition: all 0.3s;
+}
+.sofa_img:hover {
+  transform: scale(1.1);
+}
+.text { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sofa_name {
+  font-weight: 700;
+  text-align: center;
+}
+.sofa_price {
+  font-weight: 500;
+}
+.sofa_rating {
+  font-weight: 500;
+}
+
+.wishlist_btn {
+  background-color: #333;
+  border: none;
+  padding: 0.4rem;
+  margin-top: 0.2rem;
+  border-radius: 3px;
+  color: #fff;
+  transition: all 0.3s;
+}
+.wishlist_btn:hover {
+  background-color: #222;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.6);
+}
+
+/* Media queries */
+@media screen and (max-width: 1200px) {
+  .search_grid,
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .furniture_flex {
+    gap: 2rem;
+  }
+  .sofa_div {
+    gap: 0.4rem;
+  }
+  .text {
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .furniture_p {
+    font-size: 1.4rem;
+  }
+  .search_grid,
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .sofa_img {
+    height: 50%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .furniture_flex {
+    gap: 1.5rem;
+  }
+  .sofa_div {
+    gap: 0.3rem;
+  }
+  .sofa_name {
+    font-size: 0.8rem;
+  }
+  .sofa_price {
+    font-size: 0.8rem;
+  }
+  .sofa_rating {
+    font-size: 0.8rem;
+  }
+  .wishlist_btn {
+    font-size: 0.6rem;
+    padding: 0.3rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .furniture_p {
+    font-size: 1.2rem;
+  }
+  .sofa_img {
+    height: 45%;
+  }
+}

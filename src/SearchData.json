@@ -1,0 +1,1412 @@
+{
+  "furnitures": [
+    {
+      "id": "sofa1",
+      "name": "Modern Sofa",
+      "price": 1500,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b7/14/d0/b714d003e9754179caf7cdbfbe5612d8.jpg"
+    },
+    {
+      "id": "sofa2",
+      "name": "Chesterfield Sofa",
+      "price": 2000,
+      "rating": "3/5",
+      "path": "https://i.pinimg.com/474x/2a/f8/b8/2af8b8bea81a7d9c6ae3d34437a914a7.jpg"
+    },
+    {
+      "id": "sofa3",
+      "name": "Reclining Sofa",
+      "price": 1800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ba/6d/0c/ba6d0cdeefea934282cc24658839c05f.jpg"
+    },
+    {
+      "id": "sofa4",
+      "name": "Sleeper Sofa",
+      "price": 1600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/1d/31/00/1d31006f5632859854ebacb80f17faf8.jpg"
+    },
+    {
+      "id": "sofa5",
+      "name": "Sectional Sofa",
+      "price": 2500,
+      "rating": "3/5",
+      "path": "https://i.pinimg.com/474x/c5/0f/87/c50f87111c66fd223fe315d599316022.jpg"
+    },
+    {
+      "id": "sofa6",
+      "name": "Luxury Sofas",
+      "price": 5000,
+      "rating": "5/5",
+      "path": "https://i.pinimg.com/474x/4b/82/43/4b824316f400cb2135f9bf03f3752047.jpg"
+    },
+    {
+      "id": "sofa7",
+      "name": "Tuxedo Sofas",
+      "price": 5000,
+      "rating": "5/5",
+      "path": "https://i.pinimg.com/474x/af/95/23/af95235636c1bcb4637b46a54ccfeea5.jpg"
+    },
+    {
+      "id": "sofa8",
+      "name": "Track Arm Sofas",
+      "price": 5000,
+      "rating": "5/5",
+      "path": "https://i.pinimg.com/474x/ca/61/d7/ca61d7b50ed8759012bdfa8797dfbdf1.jpg"
+    },
+
+    {
+      "id": "bed1",
+      "name": "Queen Size Bed",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/63/d0/d9/63d0d99654d048bf3c5c68ea8015694a.jpg"
+    },
+    {
+      "id": "bed2",
+      "name": "King Size Bed",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/da/57/25/da5725162d7332bbd20fecb1e03e1d33.jpg"
+    },
+    {
+      "id": "bed3",
+      "name": "Full Size Bed",
+      "price": 700,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e3/e2/03/e3e203dc2609b10ae21171001311c174.jpg"
+    },
+    {
+      "id": "bed4",
+      "name": "Twin Size Bed",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e7/ae/d0/e7aed0a163ee508a8c296d522e244174.jpg"
+    },
+    {
+      "id": "bed5",
+      "name": "California King Bed",
+      "price": 950,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/cf/9a/ea/cf9aea7a96c888274e53c6c62a25d0a8.jpg"
+    },
+    {
+      "id": "bed6",
+      "name": "Adjustable Bed",
+      "price": 950,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0e/74/6b/0e746b5ef5c1687ac741301d5d5c525e.jpg"
+    },
+    {
+      "id": "bed7",
+      "name": "Platform Bed",
+      "price": 950,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/6d/f1/f6/6df1f65f8bd1c4a033653797558fa9bf.jpg"
+    },
+    {
+      "id": "bed8",
+      "name": "Sleigh Bed",
+      "price": 950,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/74/90/ec/7490ec19ab3d21ab9d166449d76510f4.jpg"
+    },
+
+    {
+      "id": "chair1",
+      "name": "Rocking Chairs",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/04/52/5e/04525ea2d73d967c9f45244d9bd6ecf5.jpg"
+    },
+    {
+      "id": "chair2",
+      "name": "Accent Chairs",
+      "price": 350,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/2b/e5/29/2be529890d6a758edf719036829ffb74.jpg"
+    },
+    {
+      "id": "chair3",
+      "name": "Executive Chairs",
+      "price": 450,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/29/4e/5d/294e5d361710db63c6ac88f967a9d4df.jpg"
+    },
+    {
+      "id": "chair4",
+      "name": "Wingback Chairs",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/f1/94/db/f194dbaca77415312720f681ae460595.jpg"
+    },
+    {
+      "id": "chair5",
+      "name": "Manual Recliners",
+      "price": 550,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/27/9e/da/279edaab7023fd504c8d4dd06d8aea8a.jpg"
+    },
+    {
+      "id": "chair6",
+      "name": "Power Recliners",
+      "price": 550,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/38/24/f4/3824f4828ba745d0db9f003d41431fcd.jpg"
+    },
+    {
+      "id": "chair7",
+      "name": "Lift Chairs",
+      "price": 550,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/6b/16/5b/6b165b0bd571aa57bb5a8205a2033be6.jpg"
+    },
+    {
+      "id": "chair8",
+      "name": "Sleigh Bed Recliners",
+      "price": 550,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/3b/6c/3f/3b6c3f201c54472dcd7904c99226f904.jpg"
+    },
+
+    {
+      "id": "table1",
+      "name": "Dining Table",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/04/e5/bc/04e5bcb8ce0a1b5f361934e1f34da760.jpg"
+    },
+    {
+      "id": "table2",
+      "name": "Coffee Table",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/16/e7/27/16e7271d3e41d14029ea00b0223c74d5.jpg"
+    },
+    {
+      "id": "table3",
+      "name": "End Table",
+      "price": 350,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/dc/30/e1/dc30e1ded11851842f38e8635c675e2d.jpg"
+    },
+    {
+      "id": "table4",
+      "name": "Nightstand",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/89/64/52/896452e7a085dcc34c333a9540df982c.jpg"
+    },
+    {
+      "id": "table5",
+      "name": "Desk",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/57/d8/92/57d892aedb878ab4b51fee97f133e850.jpg"
+    },
+    {
+      "id": "table6",
+      "name": "Console Table",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0e/dd/9d/0edd9d9d332701a47e35c3735ebca617.jpg"
+    },
+    {
+      "id": "table7",
+      "name": "Outdoor Table",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/fe/d1/f9/fed1f996b75e8b806379286e462f5289.jpg"
+    },
+    {
+      "id": "table8",
+      "name": "Pedestal Tables",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/fb/b2/f2/fbb2f2d94d64cc1eb99e1e4bf6b70b7d.jpg"
+    },
+
+    {
+      "id": "storage1",
+      "name": "Bookshelf",
+      "price": 500,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/72/86/80/72868029e3224c25f6431c157f0d04c7.jpg"
+    },
+    {
+      "id": "storage2",
+      "name": "Closet Organizer",
+      "price": 700,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/95/41/c6/9541c6c7f1b8cd192de12a78d32b6ebf.jpg"
+    },
+    {
+      "id": "storage3",
+      "name": "Armoire",
+      "price": 900,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/26/9e/3a/269e3ab75508fb3177e46a68d7397a0a.jpg"
+    },
+    {
+      "id": "storage4",
+      "name": "Wall-Mounted Shelves",
+      "price": 1200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8b/c9/b1/8bc9b1b652dda644e18aaeaf9dc6e467.jpg"
+    },
+    {
+      "id": "storage5",
+      "name": "Wardrobe",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5a/20/1a/5a201a9cdf235cf2cd47549b33b8028d.jpg"
+    },
+    {
+      "id": "storage6",
+      "name": "Cabinets",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0c/5c/32/0c5c32cb78d3767de6be2c3d5f860190.jpg"
+    },
+    {
+      "id": "storage7",
+      "name": "Shoe Racks",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/17/5d/c4/175dc413d3116b49a33c7957efa36781.jpg"
+    },
+    {
+      "id": "storage8",
+      "name": "Drawers and Dressers",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/93/89/16/9389163f240a129bab4941f46a1fbc2b.jpg"
+    },
+    {
+      "id": "cabinet1",
+      "name": "Wall Cabinet",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/23/de/84/23de8448ef764815933c112d0bad98e8.jpg"
+    },
+    {
+      "id": "counter2",
+      "name": "Quartz Countertop",
+      "price": 1000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e8/b9/18/e8b91840a5b5ff611a975022ecd72b65.jpg"
+    },
+    {
+      "id": "cabinet3",
+      "name": "Base Cabinet",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/9b/0e/7d/9b0e7d780e40f77bfffb55a28e314ee5.jpg"
+    },
+    {
+      "id": "cabinet4",
+      "name": "Framed Cabinets",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/bf/7d/ca/bf7dca9f0c6d4a2b43cf5f80b3642c2c.jpg"
+    },
+    {
+      "id": "cabinet5",
+      "name": "Frameless Cabinets",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5a/72/e9/5a72e919b15a3755d74e6a875cc47a4d.jpg"
+    },
+    {
+      "id": "cabinet6",
+      "name": "Stock Cabinets",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b5/92/77/b59277e425294fc1015ae6c98640d1af.jpg"
+    },
+    {
+      "id": "cabinet7",
+      "name": "Semi-stock Cabinets",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/df/9a/73/df9a73b4a334ae048ca48cf8d8ac403b.jpg"
+    },
+    {
+      "id": "cabinet8",
+      "name": "Open Shelving",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/4d/5d/5b/4d5d5bafa9f95515d2c4bc744f60a0f1.jpg"
+    },
+
+    {
+      "id": "counter1",
+      "name": "Granite Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8d/af/19/8daf19fef11ee78e043bbd382e9e3587.jpg"
+    },
+    {
+      "id": "counter2",
+      "name": "Marble Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5c/e1/41/5ce141538e13020894e299a006dc69ea.jpg"
+    },
+    {
+      "id": "counter3",
+      "name": "Quartzite Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/76/17/a3/7617a3a8ce88a0076741d14f7dbb0762.jpg"
+    },
+    {
+      "id": "counter4",
+      "name": "Marble Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/c2/cf/d2/c2cfd2e3941555e1132aaf3f22a1237b.jpg"
+    },
+    {
+      "id": "counter5",
+      "name": "Laminate Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a9/69/9a/a9699afc3e4ab1d1d585ebbcf423cd8f.jpg"
+    },
+    {
+      "id": "counter6",
+      "name": "Solid Surface Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5b/6e/89/5b6e8995eee92617ab7c3950ffab0115.jpg"
+    },
+    {
+      "id": "counter7",
+      "name": "Stainless Steel Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/36/7b/1b/367b1bf20460210ce074b673a3d072bb.jpg"
+    },
+    {
+      "id": "counter8",
+      "name": "Concrete Countertop",
+      "price": 800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/89/f2/12/89f212a45e9c5ed695d384b133af8be4.jpg"
+    },
+
+    {
+      "id": "sink1",
+      "name": "Bathroom Basin",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5a/97/e4/5a97e4c8f4b88159b4f33b4e74dfa96c.jpg"
+    },
+    {
+      "id": "sink2",
+      "name": "Kitchen Undermount",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/88/50/74/8850740bd44b219f6b390b6072641e4b.jpg"
+    },
+    {
+      "id": "sink3",
+      "name": "Laundry Room Drop-In",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ce/a0/20/cea020ae38cccba7fa091dbeec9b16c0.jpg"
+    },
+    {
+      "id": "sink4",
+      "name": "Ensuite Vanity",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a8/61/29/a861292e25ca3f8644516370a65a7f6f.jpg"
+    },
+    {
+      "id": "sink5",
+      "name": "Utility Sinks",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e4/ce/36/e4ce36262623e4da3877ccfce45a486c.jpg"
+    },
+    {
+      "id": "sink6",
+      "name": "Pedestal Sinks",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/35/78/1f/35781f623b0a94eb5cee1a49cdbc8006.jpg"
+    },
+    {
+      "id": "sink7",
+      "name": "Wall-Mount Sinks",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/37/4d/ae/374daef073cf6c79eb65a5b241d03b36.jpg"
+    },
+    {
+      "id": "sink8",
+      "name": "Bar Sinks",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a4/b0/7b/a4b07bc066927220ba7346e1ac2e51cb.jpg"
+    },
+
+    {
+      "id": "island1",
+      "name": "Butcher Block Island",
+      "price": 1500,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/93/24/a5/9324a53c95a08e327a69e09be6777a10.jpg"
+    },
+    {
+      "id": "island2",
+      "name": "Granite Top Island",
+      "price": 1800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/89/7b/49/897b499fd6b5a16df01e660f6a75c06f.jpg"
+    },
+    {
+      "id": "island3",
+      "name": "Wooden Farmhouse Island",
+      "price": 1600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/3e/c9/7d/3ec97d7eeb0c83f22b759ba671ab9fb6.jpg"
+    },
+    {
+      "id": "island4",
+      "name": "Marble-Topped Island",
+      "price": 1900,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/af/d2/b6/afd2b69656549539556fc0106565a185.jpg"
+    },
+    {
+      "id": "island5",
+      "name": "Industrial Metal Island",
+      "price": 1700,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e2/09/d8/e209d862296d35f5112be6b22c959794.jpg"
+    },
+    {
+      "id": "island6",
+      "name": "Butcher Block with Drawers",
+      "price": 1800,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/d1/68/1f/d1681f04a116de01dcea50514ed8c872.jpg"
+    },
+    {
+      "id": "island7",
+      "name": "Quartz Composite Island",
+      "price": 2000,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7e/f7/af/7ef7afd44efc377520596aa8b6b74db3.jpg"
+    },
+    {
+      "id": "island8",
+      "name": "Customizable Modular Island",
+      "price": 2200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/37/61/db/3761dbe522fa9b10268d9b7e29d0d330.jpg"
+    },
+
+    {
+      "id": "backsplash1",
+      "name": "Glass Tile Backsplash",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8d/d2/9c/8dd29c3c51f882375d21940a0be0d82e.jpg"
+    },
+    {
+      "id": "backsplash2",
+      "name": "Stainless Steel Backsplash",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/36/7b/1b/367b1bf20460210ce074b673a3d072bb.jpg"
+    },
+    {
+      "id": "backsplash3",
+      "name": "Ceramic Subway Backsplash",
+      "price": 350,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/1c/80/6d/1c806dd57e29869b8dd1f9389f2af3d4.jpg"
+    },
+    {
+      "id": "backsplash4",
+      "name": "Natural Stone Backsplash",
+      "price": 450,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0d/30/98/0d309864615e8a67978b815ece742d8f.jpg"
+    },
+    {
+      "id": "backsplash5",
+      "name": "Acrylic Backsplash",
+      "price": 320,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/736x/5f/d1/66/5fd16619c1dc0ef69a1332cc915939e4.jpg"
+    },
+    {
+      "id": "backsplash6",
+      "name": "Mosaic Glass Backsplash",
+      "price": 380,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/bc/54/3a/bc543adeaacafed0a4b71c9519cebd17.jpg"
+    },
+    {
+      "id": "backsplash7",
+      "name": "Pebble Backsplash",
+      "price": 420,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ce/de/1c/cede1c5374b05d25b3425651de91dc33.jpg"
+    },
+    {
+      "id": "backsplash8",
+      "name": "LED Lighted Backsplash",
+      "price": 500,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b5/e2/0e/b5e20e09056c414f9d421a607a96c0aa.jpg"
+    },
+    {
+      "id": "lamp1",
+      "name": "Modern Table Lamp",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7f/dc/2e/7fdc2ebc80a2ef387a99ce24aa5265a8.jpg"
+    },
+    {
+      "id": "lamp2",
+      "name": "Vintage Table Lamp",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/11/8e/25/118e2547e011594535bd5924c7ab9682.jpg"
+    },
+    {
+      "id": "lamp3",
+      "name": "Industrial Metal Table Lamp",
+      "price": 130,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7e/5a/f2/7e5af279f11a1b690cf2b63041339937.jpg"
+    },
+    {
+      "id": "lamp4",
+      "name": "Mid-Century Modern Table Lamp",
+      "price": 140,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/cc/6b/47/cc6b475e147363c0f20c60905017aae3.jpg"
+    },
+    {
+      "id": "lamp5",
+      "name": "Coastal Glass Table Lamp",
+      "price": 160,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e9/fe/42/e9fe42723635940ad7566ca75451dd86.jpg"
+    },
+    {
+      "id": "lamp6",
+      "name": "Rustic Wooden Table Lamp",
+      "price": 170,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/78/cb/f6/78cbf64121df6a75d4f465471a5f3808.jpg"
+    },
+    {
+      "id": "lamp7",
+      "name": "Art Deco Table Lamp",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/cf/cd/35/cfcd35cd523879b8c0858404b91a3106.jpg"
+    },
+    {
+      "id": "lamp8",
+      "name": "LED Adjustable Arm Table Lamp",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/62/41/1a/62411a81614a0a7e08484d39ab4d281d.jpg"
+    },
+    {
+      "id": "flamp1",
+      "name": "Industrial Floor Lamp",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/55/b2/f0/55b2f028d7b7a429d6a6d86c4ac08912.jpg"
+    },
+    {
+      "id": "flamp2",
+      "name": "Mid-Century Floor Lamp",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a2/e6/5f/a2e65f95ae47a26dbb49e1eb57b5a5dc.jpg"
+    },
+    {
+      "id": "flamp3",
+      "name": "Modern Arc Floor Lamp",
+      "price": 220,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b7/52/6c/b7526c03091ea74eb840a76e4d821b31.jpg"
+    },
+    {
+      "id": "flamp4",
+      "name": "Rustic Wood Floor Lamp",
+      "price": 230,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/57/2d/5c/572d5c6adf54a8fbe27cce19de390104.jpg"
+    },
+    {
+      "id": "flamp5",
+      "name": "Adjustable LED Floor Lamp",
+      "price": 240,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0e/d1/05/0ed105c6d13012c32c1e6e121c628b85.jpg"
+    },
+    {
+      "id": "flamp6",
+      "name": "Twin-Arm Floor Lamp",
+      "price": 260,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/90/5b/a5/905ba5479a084862ad59c2e320dcb1f0.jpg"
+    },
+    {
+      "id": "flamp7",
+      "name": "Futuristic Floor Lamp",
+      "price": 280,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/59/6e/49/596e498fd72c958760dd936c01c425af.jpg"
+    },
+    {
+      "id": "flamp8",
+      "name": "Hollywood Regency Floor Lamp",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/53/d8/87/53d887f4dc04f887189003a629c9b741.jpg"
+    },
+    {
+      "id": "clight1",
+      "name": "Pendant Light",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/25/17/bf/2517bf43fec3f91f4c6154a69ba25267.jpg"
+    },
+    {
+      "id": "clight2",
+      "name": "Chandelier",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7f/4c/2e/7f4c2e1b340f45b4ea89029e222147a4.jpg"
+    },
+    {
+      "id": "clight3",
+      "name": "Recessed Downlight",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/736x/46/95/1c/46951cfaa19afe6d90bbaf67aeabe86e.jpg"
+    },
+    {
+      "id": "clight4",
+      "name": "Track Lighting Kit",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/f7/e6/16/f7e6169ea0ab2c90bd8bc77c83240633.jpg"
+    },
+    {
+      "id": "clight5",
+      "name": "Semi-Flush Mount",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a8/b2/ca/a8b2cafdd72deb2b8c2663c50c695482.jpg"
+    },
+    {
+      "id": "clight6",
+      "name": "LED Panel Light",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a1/3e/b9/a13eb9032184a3d75b52267a788f2008.jpg"
+    },
+    {
+      "id": "clight7",
+      "name": "Foyer Chandelier",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/4c/c5/f3/4cc5f35c2d1660b9f31c131b522fa46a.jpg"
+    },
+    {
+      "id": "clight8",
+      "name": "Smart Ceiling Light",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/14/0d/bf/140dbf39b8298428b844b002b7a48a43.jpg"
+    },
+    {
+      "id": "clight1",
+      "name": "Pendant Light",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7e/c0/20/7ec020e1fa9ce75b519cbf0930d1deb4.jpg"
+    },
+    {
+      "id": "clight2",
+      "name": "Chandelier",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7f/4c/2e/7f4c2e1b340f45b4ea89029e222147a4.jpg"
+    },
+    {
+      "id": "clight3",
+      "name": "Sconce Light",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/72/14/38/721438f2d3b789def1aa3276dbd7c038.jpg"
+    },
+    {
+      "id": "clight4",
+      "name": "LED Wall Light",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/02/10/85/021085e3567bcedec15823596d3fcc74.jpg"
+    },
+    {
+      "id": "clight5",
+      "name": "Foyer Chandelier",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/cb/8f/2d/cb8f2d25a9d743fc0cd1c17abd849fdc.jpg"
+    },
+    {
+      "id": "clight6",
+      "name": "Recessed Wall Light",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/d1/6c/ec/d16cec2af748a51e783139b2fa8a7343.jpg"
+    },
+    {
+      "id": "clight7",
+      "name": "Track Lighting Kit",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8a/6a/3b/8a6a3b683798af3e04cbf5cd6e56a26a.jpg"
+    },
+    {
+      "id": "clight8",
+      "name": "Smart Wall Light",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ba/48/86/ba488695142ec244972669687ae3d26c.jpg"
+    },
+    {
+      "id": "olight1",
+      "name": "Pendant Light",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/d2/c2/39/d2c2393839de0da396c3358565ae133f.jpg"
+    },
+    {
+      "id": "olight2",
+      "name": "Chandelier",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ec/25/3f/ec253f9e1b3e046d60690c0df836e5cb.jpg"
+    },
+    {
+      "id": "olight3",
+      "name": "Solar-Powered Path Light",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/00/c5/e1/00c5e177a65c27eead6a77461e751ff5.jpg"
+    },
+    {
+      "id": "olight4",
+      "name": "LED Flood Light",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/11/ba/d6/11bad65a10cb035f1e67900fee651225.jpg"
+    },
+    {
+      "id": "olight5",
+      "name": "Outdoor Lantern",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/16/f2/61/16f26182e93d983af33ef04bd5d8b409.jpg"
+    },
+    {
+      "id": "olight6",
+      "name": "Motion-Sensing Outdoor Light",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/85/1c/20/851c20e59bd8b75f80dea423d20847f6.jpg"
+    },
+    {
+      "id": "olight7",
+      "name": "String Lights",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/37/9b/74/379b7471c6b64a08b5a78f5d5ffe540a.jpg"
+    },
+    {
+      "id": "olight8",
+      "name": "Smart Outdoor Security Light",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/66/6e/13/666e135b9252800c24e79ca3c941b677.jpg"
+    },
+    {
+      "id": "art1",
+      "name": "Abstract Art Print",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/0a/9e/fa/0a9efac859e556a1ee1938af95acce3b.jpg"
+    },
+    {
+      "id": "art2",
+      "name": "Photography Print",
+      "price": 90,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/9d/c2/ad/9dc2ade87af5722448016fc302dfdc0d.jpg"
+    },
+    {
+      "id": "art3",
+      "name": "Watercolor Painting",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/42/f5/38/42f538b8f4d912c8beda1cca2b278c8d.jpg"
+    },
+    {
+      "id": "art4",
+      "name": "Mixed Media Collage",
+      "price": 110,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7f/b3/d5/7fb3d56953964595355f10f0627cbeda.jpg"
+    },
+    {
+      "id": "art5",
+      "name": "Nature Landscape Photography",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/90/a0/bc/90a0bc11e5b5fd111c7a84c55f4ab7f7.jpg"
+    },
+    {
+      "id": "art6",
+      "name": "Geometric Pattern Art",
+      "price": 130,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/3b/db/c8/3bdbc8b3b857f134a7d2ac30d93f1fe8.jpg"
+    },
+    {
+      "id": "art7",
+      "name": "Vintage Poster Reproduction",
+      "price": 140,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8d/5e/b3/8d5eb380af489fc465d963ed8a3d9cf8.jpg"
+    },
+    {
+      "id": "art8",
+      "name": "Contemporary Art Piece",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/9d/6e/b8/9d6eb8a5f046284568d537d7a2304a0e.jpg"
+    },
+    {
+      "id": "vas1",
+      "name": "Glass Vase",
+      "price": 60,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/1c/20/98/1c2098f7659c0f7e86a351dca1a6a2f9.jpg"
+    },
+    {
+      "id": "vas2",
+      "name": "Ceramic Vase",
+      "price": 70,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/25/64/09/2564098cad1e3ce6f6bd12eaaba08980.jpg"
+    },
+    {
+      "id": "vas3",
+      "name": "Macrame Hanging Vase",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ad/83/ce/ad83ce0f2d9497b85c31804ffd6c5c1b.jpg"
+    },
+    {
+      "id": "vas4",
+      "name": "Bulb Glass Vase",
+      "price": 90,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e2/bf/1c/e2bf1c5cc4529d3d0c01511853916856.jpg"
+    },
+    {
+      "id": "vas5",
+      "name": "Terracotta Planter",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8d/d5/fe/8dd5fec2aa208d289934b29ecd8eb20c.jpg"
+    },
+    {
+      "id": "vas6",
+      "name": "Metallic Art Vase",
+      "price": 110,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/2f/2b/09/2f2b09551b326bd87f651d367dec1d28.jpg"
+    },
+    {
+      "id": "vas7",
+      "name": "Hand-painted Ceramic Vase",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/05/04/6e/05046e8eaf25f7a64de1b6205a75e477.jpg"
+    },
+    {
+      "id": "vas8",
+      "name": "Geometric Wooden Vase",
+      "price": 130,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/87/ad/74/87ad74e43132a1da2d702995369df2ff.jpg"
+    },
+    {
+      "id": "rug1",
+      "name": "Moroccan Rug",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/07/36/36/0736366c07dc6b4a69058fac2857f7d4.jpg"
+    },
+    {
+      "id": "rug2",
+      "name": "Shag Rug",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/bf/05/90/bf0590ef3267b7cf6343c5c94eaf8c87.jpg"
+    },
+    {
+      "id": "rug3",
+      "name": "Flat Weave Moroccan Berber",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/35/d2/28/35d2284df67d4b930022437cdfbe1052.jpg"
+    },
+    {
+      "id": "rug4",
+      "name": "Indoor-Outdoor Rug",
+      "price": 220,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/7a/2c/53/7a2c53edb76c9f26e11c4400896adf54.jpg"
+    },
+    {
+      "id": "rug5",
+      "name": "Wool Persian Rug",
+      "price": 280,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/04/14/e6/0414e614b513a1ea15742c3c18a075b3.jpg"
+    },
+    {
+      "id": "rug6",
+      "name": "Jute Natural Fiber Rug",
+      "price": 240,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/fd/3d/14/fd3d148556bac546b61fbf848b200365.jpg"
+    },
+    {
+      "id": "rug7",
+      "name": "Plush Area Rug",
+      "price": 260,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b0/1f/8e/b01f8e408e4184f8fa5668ee5507d799.jpg"
+    },
+    {
+      "id": "rug8",
+      "name": "Hand-Tufted Wool Rug",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/f4/09/57/f40957946af5e0389896873d3199beab.jpg"
+    },
+    {
+      "id": "cus1",
+      "name": "Moroccan Rug Cushion",
+      "price": 30,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/d0/ac/9c/d0ac9c9c51c01f2a1bbd5c231e2da89b.jpg"
+    },
+    {
+      "id": "cus2",
+      "name": "Shag Rug Cushion",
+      "price": 35,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/38/21/a6/3821a6c034a01306704f94956bd7f73e.jpg"
+    },
+    {
+      "id": "cus3",
+      "name": "Velvet Throw Pillow",
+      "price": 40,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/32/e6/9b/32e69bf67014ed7ac54928a1eb2a2e11.jpg"
+    },
+    {
+      "id": "cus4",
+      "name": "Outdoor Sunbrella Cushion",
+      "price": 45,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/cd/21/2c/cd212c7f76bf1d3ad10d23eed8144dc1.jpg"
+    },
+    {
+      "id": "cus5",
+      "name": "Faux Fur Pillow",
+      "price": 50,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a0/4a/ef/a04aefedcfb6de15eded2a784e135c32.jpg"
+    },
+    {
+      "id": "cus6",
+      "name": "Woven Jute Floor Cushion",
+      "price": 55,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/53/a9/cc/53a9ccedb1ae4220cb9d2f6cdfd5362e.jpg"
+    },
+    {
+      "id": "cus7",
+      "name": "Microfiber Accent Pillow",
+      "price": 60,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/21/a3/56/21a356219897a9f302ab09bfdfe22d43.jpg"
+    },
+    {
+      "id": "cus8",
+      "name": "Down-Filled Throw Cushion",
+      "price": 65,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8d/75/24/8d7524c2dddbce5f34f8ecd79c5a7677.jpg"
+    },
+    {
+      "id": "curt1",
+      "name": "Sheer White Curtain",
+      "price": 40,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/d7/07/fe/d707fe138c23f880ae57b4044c22f432.jpg"
+    },
+    {
+      "id": "curt2",
+      "name": "Black Velvet Drapery",
+      "price": 60,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/44/17/a2/4417a29a85c26cd3790f49d77ef4b667.jpg"
+    },
+    {
+      "id": "curt3",
+      "name": "Linen Natural Light Curtain",
+      "price": 50,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a7/8e/87/a78e8736114027b64191c3440003888d.jpg"
+    },
+    {
+      "id": "curt4",
+      "name": "Patterned Moroccan Curtain",
+      "price": 70,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ce/1e/ae/ce1eae69dea5bfb2beb02978deb1f816.jpg"
+    },
+    {
+      "id": "curt5",
+      "name": "Thermal Blackout Curtain",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/9e/75/71/9e7571ebecb8a17fc19f96d76246454c.jpg"
+    },
+    {
+      "id": "curt6",
+      "name": "Washed Linen Sheer Curtain",
+      "price": 90,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/fc/f6/5f/fcf65fa74e758c6cbf5c3a3484677a70.jpg"
+    },
+    {
+      "id": "curt7",
+      "name": "Embroidered Silk Curtain",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/17/61/51/17615115c5d0b721830c84be1537f083.jpg"
+    },
+    {
+      "id": "curt8",
+      "name": "Waterproof Outdoor Curtain",
+      "price": 110,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/4e/aa/93/4eaa932993f2543884dc73efc7ed9478.jpg"
+    },
+    {
+      "id": "van1",
+      "name": "Wall-Mount Sink",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/c7/2c/c3/c72cc3660a292dadde10948d7d38a7e5.jpg"
+    },
+    {
+      "id": "van2",
+      "name": "Pedestal Sink",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ba/69/2a/ba692aff8a24fdadda1632691cdba3d0.jpg"
+    },
+    {
+      "id": "van3",
+      "name": "Wall-Mount Vanity",
+      "price": 220,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/16/fa/18/16fa18e72a8a3371663fbfcef6cab5d8.jpg"
+    },
+    {
+      "id": "van4",
+      "name": "Freestanding Vanity",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/be/7f/40/be7f40b67f52c356450c2e1e085dd200.jpg"
+    },
+    {
+      "id": "van5",
+      "name": "Wall-Mount Sink with LED Light",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8b/e4/36/8be43683a6d91a01c473db7508141c8c.jpg"
+    },
+    {
+      "id": "van6",
+      "name": "Pedestal Sink with Storage",
+      "price": 230,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/70/fa/56/70fa56e9f7c1c48785ca78e04f746c84.jpg"
+    },
+    {
+      "id": "van7",
+      "name": "Wall-Mount Vanity with Mirror",
+      "price": 280,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b0/40/32/b04032d8820a7f91f0fc27ec3862dffb.jpg"
+    },
+    {
+      "id": "van8",
+      "name": "Freestanding Vanity with Drawers",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/6c/98/f5/6c98f513f518db68e90eba0804a76ade.jpg"
+    },
+    {
+      "id": "toilet1",
+      "name": "Low-Flow Toilet",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5d/60/2a/5d602a2e8d4c36a71e64af011b7b47be.jpg"
+    },
+    {
+      "id": "toilet2",
+      "name": "Dual-Flush Toilet",
+      "price": 350,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/c1/50/1f/c1501ffe76078a1ce429a12c9a92abb7.jpg"
+    },
+    {
+      "id": "toilet3",
+      "name": "Wall-Hung Toilet",
+      "price": 400,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/736x/88/81/fd/8881fd95917f133e18e68782633c8b86.jpg"
+    },
+    {
+      "id": "toilet4",
+      "name": "Composting Toilet",
+      "price": 450,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/36/70/60/3670605a8af4a5c44a5691189dc09b21.jpg"
+    },
+    {
+      "id": "toilet5",
+      "name": "Bidet Toilet",
+      "price": 500,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/10/c1/94/10c194dd84e322dea3793a401c286c25.jpg"
+    },
+    {
+      "id": "toilet6",
+      "name": "Self-Cleaning Toilet",
+      "price": 550,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/83/fc/de/83fcde6ce0d2bed5a705e6cb2973b512.jpg"
+    },
+    {
+      "id": "toilet7",
+      "name": "Round Front Toilet",
+      "price": 600,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/37/cc/00/37cc00f0f55d1e7368357edc7a0f2181.jpg"
+    },
+    {
+      "id": "toilet8",
+      "name": "Eco-Friendly Toilet",
+      "price": 650,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/bf/5e/43/bf5e43f782c3e7e5ddd096fbfd2a591d.jpg"
+    },
+    {
+      "id": "shower1",
+      "name": "Rain Showerhead",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a9/28/12/a928128e15a4a6e167dd4448d5b4ffe0.jpg"
+    },
+    {
+      "id": "shower2",
+      "name": "Body Sprays Shower",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/736x/ee/d8/21/eed821acba3183395a2a207fad9d9b8f.jpg"
+    },
+    {
+      "id": "shower3",
+      "name": "Handheld Showerhead",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/6d/ed/35/6ded354b0bc54d34a37ec24d7df5cb86.jpg"
+    },
+    {
+      "id": "shower4",
+      "name": "Fixed Showerhead",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/25/39/ac/2539ac98233ddea576f90a0ccd270cd1.jpg"
+    },
+    {
+      "id": "shower5",
+      "name": "Rainfall Shower System",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/83/5f/8c/835f8c5a934400687a9947ef90ad7436.jpg"
+    },
+    {
+      "id": "shower6",
+      "name": "Steam Shower Enclosure",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/b7/6d/45/b76d45f41adeb8bdfa87cc72bcca3e88.jpg"
+    },
+    {
+      "id": "shower7",
+      "name": "LED Showerhead",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/22/e0/24/22e0246b74189dac64a3130f57a1306d.jpg"
+    },
+    {
+      "id": "shower8",
+      "name": "Infrared Body Massager Shower",
+      "price": 320,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/df/d0/4a/dfd04a50acb9ab75d994711a3144a342.jpg"
+    },
+    {
+      "id": "mirror1",
+      "name": "Beveled Edge Wall Mirror",
+      "price": 80,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/8b/87/72/8b8772bb3f38413503bb48c1a1a23290.jpg"
+    },
+    {
+      "id": "mirror2",
+      "name": "Round Bathroom Mirror",
+      "price": 100,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/5c/8f/37/5c8f376183498137f5b1871ad4da964f.jpg"
+    },
+    {
+      "id": "mirror3",
+      "name": "Tilting Bathroom Mirror",
+      "price": 120,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/e6/9e/d0/e69ed072416a47e889d06ba9b1a07e1f.jpg"
+    },
+    {
+      "id": "mirror4",
+      "name": "Antique Style Wall Mirror",
+      "price": 140,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/2d/38/65/2d38650e74febd781dbb8b84d5463753.jpg"
+    },
+    {
+      "id": "mirror5",
+      "name": "Recessed Medicine Cabinet Mirror",
+      "price": 160,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/a2/4e/7f/a24e7f5057adceb7e0ac8131837dae5b.jpg"
+    },
+    {
+      "id": "mirror6",
+      "name": "Hollywood Style Vanity Mirror",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/75/ca/fb/75cafb70b232c1b812c9810a82248071.jpg"
+    },
+    {
+      "id": "mirror7",
+      "name": "Mirrored Closet Door",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/23/5e/8d/235e8d282947ba09fd8a9df790ad77ab.jpg"
+    },
+    {
+      "id": "mirror8",
+      "name": "Smart Mirrored TV",
+      "price": 240,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/59/a5/53/59a55310901936d031d57c6d0f49da85.jpg"
+    },
+    {
+      "id": "sink1",
+      "name": "Wall-Mount Sink",
+      "price": 150,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/74/65/75/7465759e9b0f9afaeba67496bbde4866.jpg"
+    },
+    {
+      "id": "sink2",
+      "name": "Pedestal Sink",
+      "price": 180,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ea/28/03/ea28030f845ccd4c759f06ebe661f70e.jpg"
+    },
+    {
+      "id": "sink3",
+      "name": "Vessel Sink",
+      "price": 200,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/99/74/37/99743711b83dcf5e6a5b191ed7a50a70.jpg"
+    },
+    {
+      "id": "sink4",
+      "name": "Undermount Sink",
+      "price": 220,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/72/a5/9c/72a59cd758ac4fa3f69a4025840e61c0.jpg"
+    },
+    {
+      "id": "sink5",
+      "name": "Wall-Mount Vanity Sink",
+      "price": 250,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/16/fa/18/16fa18e72a8a3371663fbfcef6cab5d8.jpg"
+    },
+    {
+      "id": "sink6",
+      "name": "Freestanding Pedestal Sink",
+      "price": 280,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/2f/aa/86/2faa8604be7a915a63a14fc6ce555b14.jpg"
+    },
+    {
+      "id": "sink7",
+      "name": "Dual-Sink Vanity",
+      "price": 300,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/25/af/33/25af33ca79696b39ce3990785d41acc2.jpg"
+    },
+    {
+      "id": "sink8",
+      "name": "Smart Touchless Sink Faucet",
+      "price": 320,
+      "rating": "4/5",
+      "path": "https://i.pinimg.com/474x/ae/26/6f/ae266f272203ee858052f165c538e158.jpg"
+    }
+  ]
+}
